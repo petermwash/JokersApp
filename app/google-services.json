@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817399551297",
+    "firebase_url": "https://jokers-app-d61d3.firebaseio.com",
+    "project_id": "jokers-app-d61d3",
+    "storage_bucket": "jokers-app-d61d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817399551297:android:b6627e82be6f72a1",
+        "android_client_info": {
+          "package_name": "com.pemwa.jokersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817399551297-m1pbtnqf4oi3849ikcf4vndd7gn2omth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ80YxBWV0M1hbFtJMmUBYJLo5Q6rFfOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817399551297-m1pbtnqf4oi3849ikcf4vndd7gn2omth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
